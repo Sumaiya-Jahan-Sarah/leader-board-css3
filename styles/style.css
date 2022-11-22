@@ -201,6 +201,18 @@ hr {
 /*--------------- Media Query --------------- */
 /* mobile device */
 @media only screen and (max-width:688px) {
+
+    .menu {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    .profile img {
+        margin-bottom: 80px;
+    }
+
     .container {
         width: 100%;
     }
