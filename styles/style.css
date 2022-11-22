@@ -1,3 +1,50 @@
+/* navigation */
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #562EFF;
+    height: 94px;
+
+
+}
+
+.icon {
+    margin-top: 33px;
+}
+
+.idea {
+    text-decoration: none;
+    color: #FFFFFF;
+
+}
+
+.menu-bar {
+    display: flex;
+    margin-top: 33px;
+
+
+}
+
+
+
+
+.site-name {
+    text-decoration: none;
+    color: #FFFFFF;
+    margin-left: 36px;
+
+}
+
+a .site-name {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.profile img {
+    height: 51px;
+    width: 51px;
+}
+
 /* common style  */
 body {
     font-family: 'Poppins', sans-serif;
